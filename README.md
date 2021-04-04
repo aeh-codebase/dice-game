@@ -18,6 +18,7 @@ This project is a simple web application with front controller for testing Objec
     },
 ```
 - Classes
+- 
 **Dice**
 1. You must be able to hit / throw / roll the dice.
 2. You should be able to pick up the latest battle.
