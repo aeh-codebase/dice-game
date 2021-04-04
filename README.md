@@ -6,6 +6,7 @@ This project is a simple web application with front controller for testing Objec
 - This web app has no any database.
 - All data like game setting, history will be saved in SESSION.
 - Namespace and autoloader
+```
     "autoload": {
         "psr-4": {
             "Mos\\": "src/",
@@ -15,20 +16,21 @@ This project is a simple web application with front controller for testing Objec
             "src/functions.php"
         ]
     },
+```
 - Classes
--- Dice
---- You must be able to hit / throw / roll the dice.
---- You should be able to pick up the latest battle.
---- It must be configurable how many sides the dice have.
+**Dice**
+1. You must be able to hit / throw / roll the dice.
+2. You should be able to pick up the latest battle.
+3. It must be configurable how many sides the dice have.
 
--- GraphicalDice
---- It can also have a graphic representation that shows a dice.
---- This dice should have 6 sides.
+**GraphicalDice**
+1. It can also have a graphic representation that shows a dice.
+2. This dice should have 6 sides.
 
--- DiceHand
---- You can configure the object how many dice it should contain.
---- You can roll all the dice at once.
---- You can retrieve the values ​​of the rolled dice.
+**DiceHand**
+1. You can configure the object how many dice it should contain.
+2. You can roll all the dice at once.
+3. You can retrieve the values ​​of the rolled dice.
 
 [Rules]
 - You can choose whether you want to play with one or two dice.
