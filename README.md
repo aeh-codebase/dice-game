@@ -18,13 +18,16 @@ This project is a simple web application with front controller for testing Objec
     },
 ```
 - Classes
+
     **Dice**
     1. You must be able to hit / throw / roll the dice.
     2. You should be able to pick up the latest battle.
     3. It must be configurable how many sides the dice have.
+
     **GraphicalDice**
     1. It can also have a graphic representation that shows a dice.
     2. This dice should have 6 sides.
+
     **DiceHand**
     1. You can configure the object how many dice it should contain.
     2. You can roll all the dice at once.
