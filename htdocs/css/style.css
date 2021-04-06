@@ -4,13 +4,11 @@ body {
     overflow-y: scroll;
     width: 800px;
     margin: 8px auto;
-    /* padding-left: 1em;
-    border-left: 1px solid #ccc; */
     font-family: "Montserrat", sans-serif;
 }
 
 main {
-    min-height: 20em;
+    min-height: 45em;
     padding: 0 1rem;
 }
 

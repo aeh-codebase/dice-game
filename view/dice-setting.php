@@ -17,7 +17,7 @@ $message = $message ?? null;
         <label for="cnt-dices">Number of Dices: </label>
         <select name="cnt-dices" id="cnt-dices">
             <option value="1">1</option>
-            <option value="2">2</option>
+            <option value="2" selected>2</option>
         </select>
     </p>
     <p>
